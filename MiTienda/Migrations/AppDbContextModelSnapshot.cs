@@ -24,172 +24,172 @@ namespace MiTienda.Migrations
 
             modelBuilder.Entity("MiTienda.Entities.Categoria", b =>
                 {
-                    b.Property<int>("categoriaID")
+                    b.Property<int>("CategoriaID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("categoriaID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoriaID"));
 
-                    b.Property<string>("categoriaNombre")
+                    b.Property<string>("CategoriaNombre")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("categoriaID");
+                    b.HasKey("CategoriaID");
 
                     b.ToTable("Categoria");
 
                     b.HasData(
                         new
                         {
-                            categoriaID = 1,
-                            categoriaNombre = "Tecnologia"
+                            CategoriaID = 1,
+                            CategoriaNombre = "Tecnologia"
                         },
                         new
                         {
-                            categoriaID = 2,
-                            categoriaNombre = "Bedroom"
+                            CategoriaID = 2,
+                            CategoriaNombre = "Bedroom"
                         });
                 });
 
             modelBuilder.Entity("MiTienda.Entities.Orden", b =>
                 {
-                    b.Property<int>("ordenID")
+                    b.Property<int>("OrdenID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ordenID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrdenID"));
 
-                    b.Property<DateTime>("ordenFecha")
+                    b.Property<DateTime>("OrdenFecha")
                         .HasColumnType("datetime2");
 
-                    b.Property<decimal>("ordenTotal")
+                    b.Property<decimal>("OrdenTotal")
                         .HasColumnType("decimal(10,2)");
 
-                    b.Property<int>("usuarioID")
+                    b.Property<int>("UsuarioID")
                         .HasColumnType("int");
 
-                    b.HasKey("ordenID");
+                    b.HasKey("OrdenID");
 
-                    b.HasIndex("usuarioID");
+                    b.HasIndex("UsuarioID");
 
                     b.ToTable("Orden");
                 });
 
             modelBuilder.Entity("MiTienda.Entities.OrdenItem", b =>
                 {
-                    b.Property<int>("ordenItemID")
+                    b.Property<int>("OrdenItemID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ordenItemID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrdenItemID"));
 
-                    b.Property<int>("cantidad")
+                    b.Property<int>("Cantidad")
                         .HasColumnType("int");
 
-                    b.Property<int>("ordenID")
+                    b.Property<int>("OrdenID")
                         .HasColumnType("int");
 
-                    b.Property<decimal>("precio")
+                    b.Property<decimal>("Precio")
                         .HasColumnType("decimal(10,2)");
 
-                    b.Property<int>("productoID")
+                    b.Property<int>("ProductoID")
                         .HasColumnType("int");
 
-                    b.HasKey("ordenItemID");
+                    b.HasKey("OrdenItemID");
 
-                    b.HasIndex("ordenID");
+                    b.HasIndex("OrdenID");
 
-                    b.HasIndex("productoID");
+                    b.HasIndex("ProductoID");
 
                     b.ToTable("OrdenItem");
                 });
 
             modelBuilder.Entity("MiTienda.Entities.Producto", b =>
                 {
-                    b.Property<int>("productoID")
+                    b.Property<int>("ProductoID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("productoID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductoID"));
 
-                    b.Property<int>("productoCategoria")
+                    b.Property<int>("ProductoCategoria")
                         .HasColumnType("int");
 
-                    b.Property<string>("productoDescripcion")
+                    b.Property<string>("ProductoDescripcion")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("productoImagen")
+                    b.Property<string>("ProductoImagen")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("productoNombre")
+                    b.Property<string>("ProductoNombre")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<decimal>("productoPrecio")
+                    b.Property<decimal>("ProductoPrecio")
                         .HasColumnType("decimal(10,2)");
 
-                    b.Property<int>("productoStock")
+                    b.Property<int>("ProductoStock")
                         .HasColumnType("int");
 
-                    b.HasKey("productoID");
+                    b.HasKey("ProductoID");
 
-                    b.HasIndex("productoCategoria");
+                    b.HasIndex("ProductoCategoria");
 
                     b.ToTable("Producto");
                 });
 
             modelBuilder.Entity("MiTienda.Entities.Usuario", b =>
                 {
-                    b.Property<int>("usuarioID")
+                    b.Property<int>("UsuarioID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("usuarioID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UsuarioID"));
 
-                    b.Property<string>("usuarioContraseña")
+                    b.Property<string>("UsuarioContraseña")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("usuarioEmail")
+                    b.Property<string>("UsuarioEmail")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("usuarioNombre")
+                    b.Property<string>("UsuarioNombre")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ususarioTipo")
+                    b.Property<string>("UsuarioTipo")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("usuarioID");
+                    b.HasKey("UsuarioID");
 
                     b.ToTable("Usuario");
                 });
 
             modelBuilder.Entity("MiTienda.Entities.Orden", b =>
                 {
-                    b.HasOne("MiTienda.Entities.Usuario", "ordenUsuario")
-                        .WithMany("usuarioOrdenes")
-                        .HasForeignKey("usuarioID")
+                    b.HasOne("MiTienda.Entities.Usuario", "OrdenUsuario")
+                        .WithMany("UsuarioOrdenes")
+                        .HasForeignKey("UsuarioID")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
-                    b.Navigation("ordenUsuario");
+                    b.Navigation("OrdenUsuario");
                 });
 
             modelBuilder.Entity("MiTienda.Entities.OrdenItem", b =>
                 {
                     b.HasOne("MiTienda.Entities.Orden", "Orden")
-                        .WithMany("ordenItems")
-                        .HasForeignKey("ordenID")
+                        .WithMany("OrdenItems")
+                        .HasForeignKey("OrdenID")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("MiTienda.Entities.Producto", "Producto")
                         .WithMany()
-                        .HasForeignKey("productoID")
+                        .HasForeignKey("ProductoID")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
@@ -202,7 +202,7 @@ namespace MiTienda.Migrations
                 {
                     b.HasOne("MiTienda.Entities.Categoria", "Categoria")
                         .WithMany("Productos")
-                        .HasForeignKey("productoCategoria")
+                        .HasForeignKey("ProductoCategoria")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
@@ -216,12 +216,12 @@ namespace MiTienda.Migrations
 
             modelBuilder.Entity("MiTienda.Entities.Orden", b =>
                 {
-                    b.Navigation("ordenItems");
+                    b.Navigation("OrdenItems");
                 });
 
             modelBuilder.Entity("MiTienda.Entities.Usuario", b =>
                 {
-                    b.Navigation("usuarioOrdenes");
+                    b.Navigation("UsuarioOrdenes");
                 });
 #pragma warning restore 612, 618
         }

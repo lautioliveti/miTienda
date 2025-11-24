@@ -264,3 +264,14 @@ C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\bz2gih9e5a-{0}-1il7
 C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\kc3w4blr0r-{0}-4abcade5u8-4abcade5u8.gz
 C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\n72e37nfyf-{0}-huwngg65ec-huwngg65ec.gz
 C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\uw2ku302x0-{0}-22n2g2hpag-22n2g2hpag.gz
+C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\MiTienda.sourcelink.json
+C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\xunj8dublx-{0}-417hxf2z36-417hxf2z36.gz
+C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\sn53zeugle-{0}-22b8y2zeo2-22b8y2zeo2.gz
+C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\gzmn534lg5-{0}-o6mfa04x5k-o6mfa04x5k.gz
+C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\ids899y0sv-{0}-j2wu9ozq8m-j2wu9ozq8m.gz
+C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\5zp0qslxlw-{0}-k0j29ej4a8-k0j29ej4a8.gz
+C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\fdampt95s2-{0}-88rvh5q227-88rvh5q227.gz
+C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\e2tmbdj279-{0}-foana9fu66-foana9fu66.gz
+C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\hechq2hrvh-{0}-n2lcjdn9gu-n2lcjdn9gu.gz
+C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\yi013m6drc-{0}-85wgpauio6-85wgpauio6.gz
+C:\C#PROYECTOS\MiTienda\MiTienda\obj\Debug\net9.0\compressed\0gwhuzpgq4-{0}-fsm57ulg9i-fsm57ulg9i.gz

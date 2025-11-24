@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using MiTienda.Context;
+using MiTienda.Repositories;
+using MiTienda.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +13,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("SqlString"));
 });
 
+builder.Services.AddScoped(typeof(GenericRepository<>));
+builder.Services.AddScoped<CategoryServices>();
 
 var app = builder.Build();
 

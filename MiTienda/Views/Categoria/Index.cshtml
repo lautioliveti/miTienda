@@ -5,7 +5,7 @@
         <h4>Categories</h4>
     </div>
     <div class="col-3 text-end">
-        <a href="#" class="btn btn-success">Create new</a>
+        <a href="/Categoria/AddEdit" class="btn btn-success">Create new</a>
     </div>
 </div>
 <hr />
@@ -18,15 +18,38 @@
         </tr>
     </thead>
     <tbody>
-        @foreach(var item in Model)
+        @foreach (var item in Model)
         {
             <tr>
                 <td>@item.CategoriaNombre</td>
                 <td style="width:120px">
-                    <a href="#" class="btn btn-sm btn-primary"><i class="fa-solid fa-pen-to-square"></i></a>
-                    <button class="btn btn-sm btn-danger"><i class="fa-solid fa-trash"></i></button>
+                    <a href="/Categoria/AddEdit/@item.CategoriaID" class="btn btn-sm btn-primary"><i class="fa-solid fa-pen-to-square"></i></a>
+                    <button class="btn btn-sm btn-danger" onclick="deleteItem(@item.CategoriaID)"><i class="fa-solid fa-trash"></i></button>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+
+@section Scripts {
+    <script>
+        function deleteItem(id)
+        {
+            Swal.fire({
+              title: "¿Estas seguro?",
+              text: "No podras revertirlo!",
+              icon: "warning",
+              showCancelButton: true,
+              confirmButtonColor: "#3085d6",
+              cancelButtonColor: "#d33",
+              confirmButtonText: "Si, eliminar!",
+              cancelButtonText: "No, volver"
+            }).then((result) => {
+              if (result.isConfirmed) {
+                window.location.href='@Url.Action("Delete", "Categoria")'+'?id='+id
+              }
+            });
+            
+        }
+    </script>
+}

@@ -8,8 +8,9 @@ namespace MiTienda.Entities
     {
         public int CategoriaID { get; set; }
         [Required]
-        public required string CategoriaNombre { get; set; }
-        [Required]
+        public string CategoriaNombre { get; set; } = string.Empty;
+        
+        
 
         public ICollection<Producto>? Productos { get; set; }
     }

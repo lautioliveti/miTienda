@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\C#PROYECTOS\\MiTienda\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\models\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\models\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\models\\categoriavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\models\\categoriavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\views\\categoria\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\categoria\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,12 +43,28 @@
       "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\models\\categoriavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\models\\categoriavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\mitienda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\mitienda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Migrations\\20251124184848_AjusteNulosYRequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiTienda\\Migrations\\20251124184848_AjusteNulosYRequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\entities\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +75,12 @@
       "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\entities\\ordenitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|c:\\c#proyectos\\mitienda\\mitienda\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1BF76BC4-83D0-0E5F-7BCC-70627A0564BB}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,19 +95,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Services\\ProductServices.cs",
+              "RelativeToolTip": "MiTienda\\Services\\ProductServices.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAewJAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:00:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoVM.cs",
+              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Models\\ProductoVM.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Models\\ProductoVM.cs",
+              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Models\\ProductoVM.cs",
+              "RelativeToolTip": "MiTienda\\Models\\ProductoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:55:01.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "MiTienda\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:12:58.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "MiTienda\\Controllers\\CategoriaController.cs",
               "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "MiTienda\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T06:30:42.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MiTienda\\Views\\_ViewImports.cshtml",
@@ -83,51 +154,154 @@
               "RelativeToolTip": "MiTienda\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T06:48:01.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T06:48:01.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Views\\Categoria\\Index.cshtml",
               "RelativeDocumentMoniker": "MiTienda\\Views\\Categoria\\Index.cshtml",
               "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Views\\Categoria\\Index.cshtml",
               "RelativeToolTip": "MiTienda\\Views\\Categoria\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwC0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-24T06:45:35.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MiTienda\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MiTienda\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-24T06:57:50.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CategoriaVM.cs",
               "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Models\\CategoriaVM.cs",
               "RelativeDocumentMoniker": "MiTienda\\Models\\CategoriaVM.cs",
               "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Models\\CategoriaVM.cs",
               "RelativeToolTip": "MiTienda\\Models\\CategoriaVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T09:37:48.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Views\\Categoria\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "MiTienda\\Views\\Categoria\\AddEdit.cshtml",
+              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Views\\Categoria\\AddEdit.cshtml",
+              "RelativeToolTip": "MiTienda\\Views\\Categoria\\AddEdit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T17:52:50.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Entities\\Producto.cs",
+              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Entities\\Producto.cs",
+              "RelativeToolTip": "MiTienda\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:36:53.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Services\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Services\\CategoryServices.cs",
+              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Services\\CategoryServices.cs",
+              "RelativeToolTip": "MiTienda\\Services\\CategoryServices.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:26:45.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MiTienda",
+              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\MiTienda.csproj",
+              "RelativeDocumentMoniker": "MiTienda\\MiTienda.csproj",
+              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\MiTienda.csproj",
+              "RelativeToolTip": "MiTienda\\MiTienda.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T17:07:15.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\libman.json",
+              "RelativeDocumentMoniker": "MiTienda\\libman.json",
+              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\libman.json",
+              "RelativeToolTip": "MiTienda\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T09:06:14.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251124184848_AjusteNulosYRequired.cs",
+              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Migrations\\20251124184848_AjusteNulosYRequired.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Migrations\\20251124184848_AjusteNulosYRequired.cs",
+              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Migrations\\20251124184848_AjusteNulosYRequired.cs",
+              "RelativeToolTip": "MiTienda\\Migrations\\20251124184848_AjusteNulosYRequired.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:48:49.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Entities\\Categoria.cs",
+              "RelativeToolTip": "MiTienda\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:36:43.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Program.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Program.cs",
+              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Program.cs",
+              "RelativeToolTip": "MiTienda\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:32:21.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MiTienda\\Context\\AppDbContext.cs",
@@ -135,25 +309,11 @@
               "RelativeToolTip": "MiTienda\\Context\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T09:25:47.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T09:25:47.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Entities\\Producto.cs",
-              "RelativeDocumentMoniker": "MiTienda\\Entities\\Producto.cs",
-              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Entities\\Producto.cs",
-              "RelativeToolTip": "MiTienda\\Entities\\Producto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAhwAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T06:36:53.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "MiTienda\\Entities\\Usuario.cs",
@@ -161,25 +321,11 @@
               "RelativeToolTip": "MiTienda\\Entities\\Usuario.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAhwBEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T06:36:47.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T06:36:47.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Entities\\Categoria.cs",
-              "RelativeDocumentMoniker": "MiTienda\\Entities\\Categoria.cs",
-              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Entities\\Categoria.cs",
-              "RelativeToolTip": "MiTienda\\Entities\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T06:36:43.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Orden.cs",
               "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Entities\\Orden.cs",
               "RelativeDocumentMoniker": "MiTienda\\Entities\\Orden.cs",
@@ -187,12 +333,11 @@
               "RelativeToolTip": "MiTienda\\Entities\\Orden.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAIA1wA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T06:36:34.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T06:36:34.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "OrdenItem.cs",
               "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\Entities\\OrdenItem.cs",
               "RelativeDocumentMoniker": "MiTienda\\Entities\\OrdenItem.cs",
@@ -200,21 +345,7 @@
               "RelativeToolTip": "MiTienda\\Entities\\OrdenItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T06:36:33.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\libman.json",
-              "RelativeDocumentMoniker": "MiTienda\\libman.json",
-              "ToolTip": "C:\\C#PROYECTOS\\MiTienda\\MiTienda\\libman.json",
-              "RelativeToolTip": "MiTienda\\libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-24T09:06:14.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T06:36:33.339Z"
             }
           ]
         }
